@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Tembisa Manene
 
-💻 QA Engineer | Manual & Automation Tester  
-🎯 Passionate about software quality, Playwright, and continuous learning  
-📫 Contact: tembisa.aiamstudio.africa
-💼 Working at [**AIAM Studio**](https://aiamstudio.africa/)
-🌍 Based in Cape Town, South Africa
-⚙️ I use : `.java` `.js` `.ts`
-💬 Ping me about **Automation**, **QA**, **Playwright**, **Cypress**, **Selenium**, **Typescript**, **Javascript**
-🤝 I'm open to collaborating on Testing projects
+- 💻 QA Engineer | Manual & Automation Tester  
+- 🎯 Passionate about software quality, Playwright, and continuous learning  
+- 📫 Contact: tembisa.aiamstudio.africa
+- 💼 Working at [**AIAM Studio**](https://aiamstudio.africa/)
+- 🌍 Based in Cape Town, South Africa
+- ⚙️ I use : `.java` `.js` `.ts`
+- 💬 Ping me about **Automation**, **QA**, **Playwright**, **Cypress**, **Selenium**, **Typescript**, **Javascript**
+- 🤝 I'm open to collaborating on Testing projects
 
 ---
 
